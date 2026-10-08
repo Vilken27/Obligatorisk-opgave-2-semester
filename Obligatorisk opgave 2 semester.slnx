@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="cafe classLib/cafe classLib.csproj" />
+  <Project Path="Cafe_app/Cafe_app.csproj" />
+</Solution>
